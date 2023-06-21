@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Navigate to folder: `cd tivixlabs-test`
+- Navigate to folder: `cd cypress`
 - Install cypress: `yarn install`
 
 ## Running Tests
